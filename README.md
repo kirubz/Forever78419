@@ -1,6 +1,6 @@
 # Professional Developer
 
-❤Lovely Front-End Web Developer❤ with 8-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.
+❤Lovely Front-End Web Developer❤ with 6-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.
 
 Key skills include:
 
