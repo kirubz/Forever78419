@@ -23,5 +23,5 @@ Please consider following highlights
 Contact Me :
 eMail - forever78419@gmail.com,
 Skype - live:.cid.5224028bc039071e,
-Discord - forever#1653
+Discord - Haoming Li#1653
 # Forever78419
