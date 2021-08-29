@@ -1,5 +1,8 @@
 # Professional Developer
-https://github.com/Forever78419/Forever78419/blob/main/back.jpg
+
+<p align="center" ><img 
+ src="https://github.com/Forever78419/Forever78419/blob/main/back.jpg" width="100%"/></p>
+
 ❤Lovely Front-End Web Developer❤ with 6-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.
 
 <table style="border-size:0px">
