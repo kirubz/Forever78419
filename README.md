@@ -1,4 +1,4 @@
-# Professional Developer
+<h1 align="center">Professional Developer - GitHub</h1><br>
 
 <p align="center" ><img 
  src="https://github.com/Forever78419/Forever78419/blob/main/back.jpg" width="100%"/></p>
@@ -61,10 +61,13 @@ Please consider following highlights
 
 <br>
 
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=aacassandra&show_icons=true&count_private=true&theme=prussian&line_height=32">
-</p>
-
+ <div align="center">
+  <a href="https://github.com/emersonlimas">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonlimas&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimas&layout=compact&langs_count=7&theme=gruvbox"/>
+  </a>
+</div>
+  
 Contact Me :
 eMail - forever78419@gmail.com,
 Skype - live:.cid.5224028bc039071e,
