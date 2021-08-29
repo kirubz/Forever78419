@@ -67,10 +67,11 @@ Please consider following highlights
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonlimas&layout=compact&langs_count=7&theme=gruvbox"/>
   </a>
 </div>
-  
+<br />
+ <p align="center">
 Contact Me :
 eMail - forever78419@gmail.com,
 Skype - live:.cid.5224028bc039071e,
 Discord - Haoming Li#1653
-
+</p>
 # Forever78419
